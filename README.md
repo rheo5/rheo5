@@ -8,8 +8,6 @@
 - 📄 Check out my [resume](https://docs.google.com/document/d/1C8f_Qi6NziG532BQSwnbkXpUaeVFG0rA8NmIWsn_6vg/edit?usp=sharing)
 - 💼 You can also visit my [LinkedIn](www.linkedin.com/in/rachel-heo)
 
----
-
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg />
