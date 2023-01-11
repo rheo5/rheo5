@@ -5,7 +5,7 @@
 - 🌱 I know C, C++, Python 
 - 😎 I'm interested in travelling, sports, and small crafting projects 
 - 📫 How to reach me -> rheo@uwaterloo.ca
-- 📄 Check out my [resume](https://docs.google.com/document/d/1C8f_Qi6NziG532BQSwnbkXpUaeVFG0rA8NmIWsn_6vg/edit?usp=sharing)
+- 📄 Check out my [resume](https://drive.google.com/file/d/19zrDwzu827JA-O_z4lxAnu-EDsfOKLGQ/view?usp=sharing)
 - 💼 You can also visit my [LinkedIn](www.linkedin.com/in/rachel-heo)
 
 <h3 align="left">Languages and Tools:</h3>
