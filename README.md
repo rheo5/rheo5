@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Rachel👋</h1>
+<h1 align="center">Hi I'm Rachel😊</h1>
 <h3 align="center">Software Engineering student in University of Waterloo</h3>
 
 - 👩‍💻 I am currently self-studying web development
