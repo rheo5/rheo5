@@ -1,8 +1,7 @@
 <h1 align="center">Hi I'm Rachel😊</h1>
 <h3 align="center">Software Engineering student in University of Waterloo</h3>
 
-- 👩‍💻 I am currently self-studying web development
-- 💻 Working on my <a href="https://rachelheo.dev" target="_blank">website</a>
+- 👩‍💻 I am currently self-studying fullstack development
 - 😎 I'm interested in travelling, sports, and small crafting projects 
 - 📫 How to reach me -> [rheo@uwaterloo.ca](mailto:rheo@uwaterloo.ca)
 - 📄 Check out my <a href="https://rachelheo.dev/files/resume.pdf" target="_blank">resume</a>
