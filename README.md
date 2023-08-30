@@ -2,8 +2,8 @@
 I'm Rachel and I am...
 
 - a Software Engineering student @ University of Waterloo 
-- Entering second year!! (woohoo!!)
-- Originally from Seoul, South Korea → immigrated to BC, Canada → moved to Waterloo ON, Canada for school
+- entering second year!! (woohoo!!)
+- originally from Seoul, South Korea → immigrated to BC, Canada → moved to Waterloo ON, Canada for school
 - a past SWE @ Onsemi
 - currently self-studying blockchain and fullstack development
 - a want-to-be rock climber
