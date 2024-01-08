@@ -12,5 +12,4 @@ I'm Rachel and I am...
 
 Talk to me :)
 - 📫 How to reach me -> [rheo@uwaterloo.ca](mailto:rheo@uwaterloo.ca)
-- 📄 <a href="https://rachelheo.dev/files/resume.pdf" target="_blank">Resume</a>
 - 💼 <a href="https://linkedin.com/in/rachel-heo/" target="_blank">LinkedIn</a>
