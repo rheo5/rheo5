@@ -7,7 +7,6 @@ I'm Rachel and I am...
 - a past SWE @ Onsemi
 - currently studying blockchain and fullstack development
 - a want-to-be rock climber
-- an avid Notion
 - crochet-er (Did you know crocheting can not be replicated by a machine? Well I got into crochet because it felt good to beat technology haha..)
 
 Talk to me :)
