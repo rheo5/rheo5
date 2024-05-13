@@ -4,8 +4,7 @@ I'm Rachel and I am...
 - a Software Engineering student @ University of Waterloo 
 - second year!! 
 - originally from Seoul, South Korea → immigrated to BC, Canada → moved to Waterloo ON, Canada for school
-- a past SWE @ Onsemi
-- currently studying blockchain and fullstack development
+- a past SWE @ Onsemi, Augmenta AI
 - a want-to-be rock climber
 - crochet-er (Did you know crocheting can not be replicated by a machine? Well I got into crochet because it felt good to beat technology haha..)
 
