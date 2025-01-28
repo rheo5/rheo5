@@ -2,7 +2,7 @@
 I'm Rachel and I am...
 
 - a Software Engineering student @ University of Waterloo 
-- second year!! 
+- third year!! 
 - originally from Seoul, South Korea → immigrated to BC, Canada → moved to Waterloo ON, Canada for school
 - prev SWE @ Sony Playstation, Onsemi, Augmenta AI
 - incoming SWE @ Coinbase
