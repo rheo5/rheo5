@@ -4,8 +4,8 @@ I'm Rachel and I am...
 - a Software Engineering student @ University of Waterloo 
 - third year!! 
 - originally from Seoul, South Korea → immigrated to BC, Canada → moved to Waterloo ON, Canada for school
-- prev SWE @ Sony Playstation, Onsemi, Augmenta AI
-- incoming SWE @ Uber
+- prev SWE @ Uber, Sony Playstation, Onsemi, Augmenta AI
+- incoming SWE @ Rippling
 - a want-to-be rock climber
 - crochet-er (Did you know crocheting can not be replicated by a machine? Well I got into crochet because it felt good to beat technology haha..)
 
